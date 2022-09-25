@@ -1,24 +1,3 @@
-# README
+# The Rails Testing Guide - Jason Swett (Code with Jason)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Polish TDD knowledge + Rspec, Capybara, FactoryBot, VCR and WebMock knowledge. This app follows the Complete Guide to Rails Testing book, by Jason Swett (Coding with Jason).
